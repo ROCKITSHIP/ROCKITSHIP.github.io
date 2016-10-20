@@ -1,0 +1,52 @@
+
+#logo1{
+    width: 350px;
+    height: 350px;
+    margin-left: 37%;
+    
+}
+
+html{
+    background-image: url("yes.jpg");
+    background-color: black;
+}
+
+#navLogo{
+    
+    height: 70px;
+    
+    
+}
+
+
+
+#radio{
+    border: 25px soldi grey;
+    border-radius: 5px;
+    margin-left: 31.5%;
+    height: 500px;
+    width: 500px;
+}
+
+#awe{border: 2px solid grey;
+    background-color:black;
+    color: white;
+text-align: center;}
+
+h3{color: white;
+text-align: center;}
+
+#logo2{
+    padding-top: 15px;
+    margin-left: 20%;
+    margin-right: 25%;
+    width:800px;
+    height:100px;
+}
+p{color: white;
+text-align: center;}
+
+a{ margin-left: 38.5%;
+    text-align: center;
+    
+}
